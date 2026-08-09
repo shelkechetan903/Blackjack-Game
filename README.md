@@ -39,4 +39,4 @@ python main.py
 ```
 ## Output
 
-![Blackjack Game Output](https://github.com/shelkechetan903/Blackjack-Game/blob/main/Screenshot%202026-08-09%20173538.png?raw=true)
+![Blackjack Game Output](blackjack-output.png)
